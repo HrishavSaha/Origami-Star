@@ -1,0 +1,26 @@
+p{
+    font-family:'Times New Roman', Times, serif;
+    color:white;
+}
+
+a{
+    color: white;
+}
+
+/**{
+    border: solid;
+}*/
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    background-color: black;
+    
+}
+
+.info{
+    display:flexbox;
+    justify-content:space-around;
+    color: whitesmoke;
+    background-color: black;
+}
